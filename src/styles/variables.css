@@ -1,0 +1,24 @@
+:root {
+  /* Text */
+  --primaryTextColor: #232e35;
+  --secondaryTextColor: #656d72;
+
+  /* Background */
+  --primaryBackgroundColor: #ffffff;
+  --secondaryBackgroundColor: #fbfbfb;
+  --thirdBackgroundColor: #f5f3fe;
+
+  /* Border & Line */
+  --borderColor: #f1f1f1;
+  --lineColor: #d9d9d9;
+
+  /* Accent */
+  --primaryIconColor: #7e74f1;
+  --primaryIconColorHover: #5d51e8;
+
+  /* Spacing */
+  --sectionPadding: 6rem 0;
+
+  /* Radius */
+  --itemBorderRadius: 0.7rem;
+}
